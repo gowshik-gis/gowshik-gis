@@ -27,6 +27,7 @@ Passionate about building geospatial automation systems, interactive WebGIS plat
 - CI/CD
 - Cloud Automation
 
+
 ## 🌍 Featured Projects
 
 ### Real-Time Geospatial Alerting System
@@ -46,8 +47,7 @@ Interactive browser-based 3D WebGIS visualization platform using MapLibre GL and
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/gowshik-gis/
+LinkedIn: (https://www.linkedin.com/in/gowshik-gis/)
 Email: gowshikpiramanayagam@gmail.com
-- GitHub Actions
-- CI/CD
-- Cloud Automation
+
+
