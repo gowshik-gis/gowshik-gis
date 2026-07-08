@@ -279,7 +279,6 @@ Machine Learning        ████████████████
 - Build production-grade GIS software
 - Contribute to Open Source GIS
 - Master GeoAI
-- Publish technical GIS blogs
 - Develop cloud-native GIS applications
 - Learn advanced Spatial AI
 
